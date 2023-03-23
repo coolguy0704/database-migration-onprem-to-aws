@@ -1,6 +1,8 @@
 # database-migration-onprem-to-aws
 This project provides a step-by-step guide on how to migrate a WordPress website and MariaDB database from on-premises to AWS, using peering connections and AWS services such as EC2, RDS, and DMS. The guide covers setting up the simulated environment, creating VPC and peering connection, launching instances, setting up DMS replication, and testing.
 
+![dms](https://user-images.githubusercontent.com/116753469/227190460-ae837c2a-28b6-4c36-b11b-477cf6747536.png)
+
 
 ## Installation
 To use this project, you need to have the following:
