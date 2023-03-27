@@ -69,7 +69,7 @@ To use this project, you need to have the following:
 <img width="1440" alt="Snipaste_2023-03-23_18-23-02" src="https://user-images.githubusercontent.com/116753469/227181452-4da21ca5-641c-4f8e-8c34-f8ad32e966cf.png">
 <img width="647" alt="Snipaste_2023-03-23_18-24-06" src="https://user-images.githubusercontent.com/116753469/227181453-d0628993-05ab-4653-9f45-24b2ac956401.png">
 <img width="1240" alt="Snipaste_2023-03-23_18-24-40" src="https://user-images.githubusercontent.com/116753469/227181456-fe82f27e-afd7-4dfd-8725-c789a995c766.png">
-<img width="1194" alt="Snipaste_2023-03-23_18-28-38" src="https://user-images.githubusercontent.com/116753469/227181460-609557ec-b2ca-4d0f-9acd-1ce40dd22b9c.png">
+<!-- <img width="1194" alt="Snipaste_2023-03-23_18-28-38" src="https://user-images.githubusercontent.com/116753469/227181460-609557ec-b2ca-4d0f-9acd-1ce40dd22b9c.png"> -->
 <img width="747" alt="Snipaste_2023-03-23_18-31-20" src="https://user-images.githubusercontent.com/116753469/227181462-2fde629a-81dc-40db-876d-48c5c25725c4.png">
 <img width="1436" alt="Snipaste_2023-03-23_18-32-03" src="https://user-images.githubusercontent.com/116753469/227181465-8b41c292-5cf4-49f1-97f9-5fa0c528c771.png">
 <img width="802" alt="Snipaste_2023-03-23_18-33-27" src="https://user-images.githubusercontent.com/116753469/227181466-db0f0a54-11a3-4379-81a6-7146220b23d9.png">
@@ -93,7 +93,7 @@ To use this project, you need to have the following:
 <img width="1253" alt="Snipaste_2023-03-23_19-09-54" src="https://user-images.githubusercontent.com/116753469/227181531-a0a9a9d7-9718-449b-afc5-7c10955a8aa9.png">
 <img width="1237" alt="Snipaste_2023-03-23_19-12-56" src="https://user-images.githubusercontent.com/116753469/227181532-130d9888-31eb-4ae4-bc4b-d25892fc100a.png">
 <img width="1239" alt="Snipaste_2023-03-23_19-13-09" src="https://user-images.githubusercontent.com/116753469/227181535-ca4c3368-e614-4149-b59e-de3b41b26058.png">
-<img width="1091" alt="Snipaste_2023-03-23_19-16-18" src="https://user-images.githubusercontent.com/116753469/227181541-97a947ec-9990-40ad-8fcd-9569baf0659a.png">
+
 
 
 ## CleanUp:
